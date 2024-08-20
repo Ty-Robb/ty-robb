@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ty-interseed
+- 👀 I’m interested in Marketing - but learning to code to build cool things
+- 🌱 I’m currently learning React, Typescript
+- 📫 How to reach me tyrone @interseed.ai
+- ⚡ Fun fact: I have been a marketing consultant for over a decade. 
