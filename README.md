@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ty-interseed
+- 👋 Hi, I’m @ty-robb
 - 👀 I’m interested in Marketing - but learning to code to build cool things
 - 🌱 I’m currently learning React, Typescript
 - 📫 How to reach me tyrone @interseed.ai
